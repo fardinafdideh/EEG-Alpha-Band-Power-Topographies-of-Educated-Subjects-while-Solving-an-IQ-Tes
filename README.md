@@ -6,4 +6,4 @@ Human brain is the most extraordinary and exceptional part of the matured nervou
 ![](ppt/topo.png)
 
 # How to cite
-* F. Afdideh, et al., “Gender Differences in EEG Alpha Band Power Topographies of Educated Subjects while Solving an IQ Test: A Case Study”, to be published.
+* F. Afdideh, et al., “EEG Alpha Band Power Topographies of Educated Subjects while Solving an IQ Test: A Case Study”, to be published.
